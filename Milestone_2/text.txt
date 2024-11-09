@@ -1,0 +1,2 @@
+1:Github      (https://github.com/shahzad006/milestone_2)
+2:Vercel      (https://milestone-2-theta.vercel.app/)
